@@ -1,5 +1,5 @@
 # Timing
-Timing classes for CPU and GPU / Windows and Linux
+Timing classes for CPU (C/C++) and GPU (CUDA) / Windows and Linux
 
 Usage - CPU:
 ```
