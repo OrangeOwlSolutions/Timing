@@ -1,5 +1,5 @@
-#ifndef __TIMING_CUH__
-#define __TIMING_CUH__
+#ifndef __TIMINGGPU_CUH__
+#define __TIMINGGPU_CUH__
 
 /**************/
 /* TIMING GPU */
@@ -29,3 +29,4 @@ class TimingGPU
 }; // TimingCPU class
 
 #endif
+
